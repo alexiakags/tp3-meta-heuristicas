@@ -16,4 +16,4 @@ Para cada problema, o algoritmo foi executado **30 vezes de forma independente**
 
 Além disso, foram gerados **boxplots** para análise dos resultados e identificadas as melhores soluções encontradas, apresentando os respectivos valores das variáveis de decisão.
 
-Neste repositório encontram-se o código-fonte desenvolvido, o relatório do trabalho e os resultados obtidos durante os experimentos.
+Neste repositório encontram-se o código-fonte desenvolvido e os resultados obtidos durante os experimentos.
